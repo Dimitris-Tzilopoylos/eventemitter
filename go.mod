@@ -1,4 +1,4 @@
-module eventemitter
+module github.com/Dimitris-Tzilopoylos/eventemitter
 
 go 1.19
 
